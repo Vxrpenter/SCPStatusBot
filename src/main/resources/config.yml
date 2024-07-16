@@ -1,0 +1,8 @@
+# The token of the discord bot
+token:
+# Your servers api key (get by typing !api in the console)
+api:
+# Your server id (get by typing !id in the console)
+id:
+# Here you input the number of slots on your server
+slots:
