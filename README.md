@@ -1,5 +1,19 @@
-<h1 align="center">SCPSL Status Bot</h1>
+<div align="center">
 
+  <img src="https://github.com/user-attachments/assets/3313c667-f921-47ab-9491-495e61e8550e" width="120" height="120">
+
+  ## [SCPStatusBot merging with SCPToolsBot](https://github.com/Vxrpenter/SCPToolsBot)
+  <h6>This project will be archived and then merged with SCPToolsBot during it's kotlin refactor. All features from this project will be brought over and perfected to a new feature to mutlihost server bots, that sync with cedmod/the server directly.</h6>
+
+</div>
+
+<h2>Why should I use to SCPToolsBot</h3>
+
+> It provides many features like automatic time role syncing, a custom support system, fully customizable configuration and more. It can be easily set up on all operating systems if it has `jdk-22` or higher for the refactor and `jdk-23` for older versions beginning at `0.3.0`
+
+---
+
+---
 A simple bot application for showing the playercount and current status of your scp sl server
 
 ## Installation
